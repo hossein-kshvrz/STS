@@ -2,3 +2,5 @@
 data/
 tokens.txt
 .ipynb_checkpoints/
+T2A_newspaper/
+test_newspaper/
