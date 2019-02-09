@@ -193,3 +193,4 @@ model.fit([data1, data2],
 
 print(model.predict([test_data1[:4], test_data2[:4]]))
 print(scores[:4])
+
